@@ -1,0 +1,11 @@
+C:\Users\Programacion\Documents\Ejemplo\obj\Debug\netcoreapp2.2\Ejemplo.csprojAssemblyReference.cache
+C:\Users\Programacion\Documents\Ejemplo\obj\Debug\netcoreapp2.2\Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Programacion\Documents\Ejemplo\obj\Debug\netcoreapp2.2\Ejemplo.AssemblyInfoInputs.cache
+C:\Users\Programacion\Documents\Ejemplo\obj\Debug\netcoreapp2.2\Ejemplo.AssemblyInfo.cs
+C:\Users\Programacion\Documents\Ejemplo\bin\Debug\netcoreapp2.2\Ejemplo.deps.json
+C:\Users\Programacion\Documents\Ejemplo\bin\Debug\netcoreapp2.2\Ejemplo.runtimeconfig.json
+C:\Users\Programacion\Documents\Ejemplo\bin\Debug\netcoreapp2.2\Ejemplo.runtimeconfig.dev.json
+C:\Users\Programacion\Documents\Ejemplo\bin\Debug\netcoreapp2.2\Ejemplo.dll
+C:\Users\Programacion\Documents\Ejemplo\bin\Debug\netcoreapp2.2\Ejemplo.pdb
+C:\Users\Programacion\Documents\Ejemplo\obj\Debug\netcoreapp2.2\Ejemplo.dll
+C:\Users\Programacion\Documents\Ejemplo\obj\Debug\netcoreapp2.2\Ejemplo.pdb
